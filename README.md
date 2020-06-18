@@ -36,4 +36,4 @@ You can change the training parameters to get a better result. **n_cpu** (the nu
 
 Other
 -----------------------------------
-All other comments and explanations are contained in the laptop itself. There is an illustration of the final results at the end of the notebook.
+All other comments and explanations are contained in the laptop itself. There is an illustration of the final results at the end of the notebook. You can also find two cells before the learning cycle cell that will help you convert your own image (preferably JPG).
