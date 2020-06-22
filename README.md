@@ -5,6 +5,12 @@ Task
 -----------------------------------
 The task was to turn the black T-shirts in the photo into black ones and vice versa.
 
+![alt text](https://github.com/t0efL/white2black-GAN/blob/master/results/0sBGtYtLWZU.jpg)![alt text](https://github.com/t0efL/white2black-GAN/blob/master/results/0xG8qUI7N28.jpg)
+![alt text](https://github.com/t0efL/white2black-GAN/blob/master/results/IVlJ7fQkEs4.jpg)![alt text](https://github.com/t0efL/white2black-GAN/blob/master/results/NbQ9NZ3Xu8k.jpg)
+![alt text](https://github.com/t0efL/white2black-GAN/blob/master/results/U8nPrV1f998.jpg)![alt text](https://github.com/t0efL/white2black-GAN/blob/master/results/UYZC8zq7bUM.jpg)
+![alt text](https://github.com/t0efL/white2black-GAN/blob/master/results/XfnrwlRhadQ.jpg)![alt text](https://github.com/t0efL/white2black-GAN/blob/master/results/Yt7nIBFlQb8.jpg)
+![alt text](https://github.com/t0efL/white2black-GAN/blob/master/results/hgoVlUEs4cc.jpg)![alt text](https://github.com/t0efL/white2black-GAN/blob/master/results/oagiEj11HK4.jpg)
+
 Dataset
 -----------------------------------
 My dataset of black and white T-shirts is essentially part of a larger dataset consisting of many images of clothing of different types and colors with Ali Express. You can find it [here](https://github.com/deerslab/clothes-dataset).
