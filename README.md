@@ -31,10 +31,10 @@ Weights
 The weights were too large to directly add them to github, so I leave you links to download them. You will need to download them and, without changing the name, put them in the root of your Google drive, and the corresponding cell in the code will pass them to the necessary models. To implement Cycle GAN, you need 4 different models, so there will also be 4 weights.
 
 Links:
-* https://drive.google.com/file/d/10BKZTSgx8189tPLPrAIM6Jzdwbj6MeAT/view?usp=sharing
-* https://drive.google.com/file/d/10BNjUEf9tFb6hPhyvQZJmQsxqhZNb0WN/view?usp=sharing
-* https://drive.google.com/file/d/10C7Xjc4ud8zzchgy8QPXSnySFBqAwG7S/view?usp=sharing
-* https://drive.google.com/file/d/10Ba-juJCx00i1CPs-cGjYCWPudXzjCme/view?usp=sharing
+* https://drive.google.com/file/d/1-_Fj4gP4xKp5NU58o1qkuiWY4JXBSTlp/view?usp=sharing
+* https://drive.google.com/file/d/1-ePF2XKwOXG-J-0df2wvbqAGSJSzuvxs/view?usp=sharing
+* https://drive.google.com/file/d/1-arZQGlfs9map43HKSSR52ZsLi653oSI/view?usp=sharing
+* https://drive.google.com/file/d/1-dGCvsSZJB6crPL12pnFRC8i9kj1fz-B/view?usp=sharing
 
 Training
 -----------------------------------
